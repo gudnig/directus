@@ -1,9 +1,9 @@
 {
-	"packageManager": "pnpm@9.x",   // Ensures Vercel uses PNPM 9.x for the build
+	"packageManager": "pnpm@9.x",
 	"engines": {
-	    "node": ">=18.18.0",          // Ensures Node.js 18.18.0 or higher is used
-	    "pnpm": ">=9.x"               // Specifies the PNPM version
-	}
+	    "node": ">=18.18.0",
+	    "pnpm": ">=9.x"
+	},
 	"name": "directus-monorepo",
 	"private": true,
 	"homepage": "https://directus.io",
